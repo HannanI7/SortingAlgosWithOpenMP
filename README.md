@@ -5,3 +5,4 @@ Comparison of OpenMP and Traditional sorting using
 4. Quick Sort
 
 Created by Hannan FAST-NU
+           Salman FAST-NU
