@@ -6,3 +6,4 @@ Comparison of OpenMP and Traditional sorting using
 
 Created by Hannan FAST-NU
            Salman FAST-NU
+           Asad   FAST-NU
